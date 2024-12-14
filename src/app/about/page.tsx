@@ -29,8 +29,8 @@ const page = () => {
           <p className=" font-poppins text-xl w-full text-primary max-sm:text-lg">
             I am a Full Stack Web Developer from the Federal Capital Territory of Abuja,
             Nigeria. I love crafting cool web projects and also open-source
-            contribuitions. As a student from Babcock University biggest achievement lies in my understanding of
-            Programming and Web designing, ensuring pixel-perfect designs that captivate
+            contribuitions. As a student from Babcock University biggest my achievement lies in my understanding of
+            Programming and Web designing, ensuring pixel perfect designs that captivate
             users. With a keen eye for detail and a commitment to delivery
             speed, I excel at creating seamless and responsive interfaces that
             leave a lasting impression.
