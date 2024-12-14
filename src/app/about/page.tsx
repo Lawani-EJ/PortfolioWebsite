@@ -5,11 +5,11 @@ import { Badge } from "@/components/ui/badge";
 import { Circle, Heart, User2 } from "lucide-react";
 const page = () => {
   const items = [
-    { hobby: "coding 👨🏿‍💻" },
-    { hobby: "playing games 🎮" },
+    { hobby: "coding" },
+    { hobby: "playing games" },
     { hobby: "Watching Anime" },
-    { hobby: "Tech Blog writing ✍🏿" },
-    { hobby: "creating Cool Projects 👷🏿‍♂️" },
+    { hobby: "Tech Blog writing" },
+    { hobby: "creating Cool Projects" },
   ];
 
   return (
