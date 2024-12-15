@@ -6,7 +6,7 @@ import html from '../../../public/html.png'
 import css from '../../../public/css.png'
 import scss from '../../../public/scss.png'
 import js from '../../../public/js.png'
-import ts from '../../../public/ts.png'
+import py from '../../../public/python.png'
 import react from '../../../public/react.png'
 import nextjs from '../../../public/nextjs.jpeg'
 import cplus from '../../../public/c++.jpeg'
@@ -20,7 +20,7 @@ const skillPage = () => {
         {alt:"html", img:html},
         {alt:"css", img:css},
         {alt:"js", img:js},
-        {alt:"ts", img:ts},
+        {alt:"py", img:py},
         {alt:"cplus", img:cplus},
     ]
     const framework = [
