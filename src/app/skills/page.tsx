@@ -7,6 +7,7 @@ import css from '../../../public/css.png'
 import scss from '../../../public/scss.png'
 import js from '../../../public/js.png'
 import py from '../../../public/python.png'
+import java from '../../../public/java.png'
 import react from '../../../public/react.png'
 import nextjs from '../../../public/nextjs.jpeg'
 import cplus from '../../../public/c++.jpeg'
@@ -22,6 +23,7 @@ const skillPage = () => {
         {alt:"js", img:js},
         {alt:"py", img:py},
         {alt:"cplus", img:cplus},
+        {alt:"java", img:java},
     ]
     const framework = [
         {alt:"react", img:react},
