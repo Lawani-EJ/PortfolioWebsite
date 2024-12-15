@@ -14,6 +14,8 @@ import cplus from '../../../public/c++.jpeg'
 import tailwind from '../../../public/tailwindcss.png'
 import github from '../../../public/github.png'
 import vscode from '../../../public/vscode.png'
+import bootstrap from '../../../public/bootstrap.png'
+import git from '../../../public/git.png'
 import FramerWrapper from "@/components/animation/FramerWrapper";
 const skillPage = () => {
 
@@ -28,10 +30,11 @@ const skillPage = () => {
     const framework = [
         {alt:"react", img:react},
         {alt:"nextjs", img:nextjs},
+        {alt:"bootstrap", img:bootstrap},
         {alt:"scss", img:scss},
         {alt:"tailwind", img:tailwind},
+        {alt:"git", img:git},
         {alt:"github", img:github},
-        {alt:"vscode", img:vscode},
     ]
        
 
@@ -47,7 +50,7 @@ const skillPage = () => {
         <FramerWrapper y={0} x={200} >
 
         <p className="font-poppins text-xl w-full text-primary max-sm:text-lg">
-          Currently i am a fresher and i have a solid understand of HTML5, CSS3, JS, TS and React, including
+          Currently i am in my finals and i have a solid understand of HTML5, CSS3, JS, TS and React, including
           responsive design principles. I specialize in building web
           applications and sites using Javascript, Typescript, React, Nextjs &
           Node.
