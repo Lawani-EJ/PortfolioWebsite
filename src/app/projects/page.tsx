@@ -82,7 +82,7 @@ const projectsPage = () => {
       title: "Rock-Paper-Scissors",
       description:
         `Rock, Paper, Scissors is a two-player game where each round both players simultaneously choose a move.`,
-      tags: ["Javascript", "DOM-manipulation", "Functions", "Objects"],
+      tags: ["Javascript", "dom-manipulation", "Functions"],
       link: "https://dapper-basbousa-fdf6e7.netlify.app/",
     },
   ];
