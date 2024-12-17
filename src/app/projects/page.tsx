@@ -8,15 +8,6 @@ const projectsPage = () => {
   // PROJECTS DATA
   const Projects = [
     {
-      title: "Devzone - A community chat app for devs",
-      description:
-        `DevZone is the ultimate chat platform for developers
-to connect, collaborate, and code together. Join the conversation and level up your coding journey.`,
-      tags: ["Zustand", "Supabase", "Shadcn Ui", "Nextjs"],
-      link: "https://devzone-ti.vercel.app/",
-    },
-   
-    {
       title: "itZmyLink- One Page many Links",
       description:
         "itZmyLink is a simple platform where user can create a personalized page to showcase all your social media profiles in one place. ",
@@ -86,6 +77,13 @@ to connect, collaborate, and code together. Join the conversation and level up y
         "Crousal Maker is a tool with in-built crousals templates edit and download it in any format.",
       tags: ["Nextjs", "jsPDF", "html2canvas", "Shadcn Ui"],
       link: "https://github.com/taqui-786/crousal-maker",
+    },
+    {
+      title: "Rock-Paper-Scissors",
+      description:
+        `Rock, Paper, Scissors is a two-player game where each round both players simultaneously choose a move.`,
+      tags: ["Javascript", "DOM-manipulation", "Functions", "Objects"],
+      link: "https://dapper-basbousa-fdf6e7.netlify.app/",
     },
   ];
 
