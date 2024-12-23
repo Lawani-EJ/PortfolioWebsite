@@ -19,26 +19,26 @@ const morePage = () => {
       title: "Dev.to",
       description:
         "I write blogs on web development, trending tech stacks or javascript guide or tips in Dev.to ",
-      link: "https://dev.to/random_ti",
+      link: "https://dev.to/lawaniej",
     },
     {
       title: "Hashnode",
       description:
-        "I write blogs on web development, trending tech stacks or javascript guide or tips in Hashnode",
-      link: "https://mdtaquiimam.hashnode.dev/",
+        "I write blogs on software development guides and tips in Hashnode",
+      link: "https://hashnode.com/@LawaniEJ",
     },
     {
       title: "Medium",
       description:
-        "I write blogs on web development, trending tech stacks or javascript guide or tips in Medium",
-      link: "https://medium.com/@mdtaqui.jhar",
+        "I write blogs on my experiences as a software developer and my love for the Bible on Medium",
+      link: "https://medium.com/@Lawani-Ej",
     },
 
     {
       title: "Daily.Dev",
       description:
         "I am also the member of Daily Dev squads and i also upload post on some squads.",
-      link: "https://app.daily.dev/taqui_786",
+      link: "https://medium.com/@Lawani-Ej",
     },
     {
       title: "Gumroad",
